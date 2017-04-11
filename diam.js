@@ -15,7 +15,7 @@ function aha(){
           color.disabled=false
           
         },4000)
-         color.style.hover=colors[b];
+         color.style.backgroundColor=colors[b];
        }
 
 function remove(){
