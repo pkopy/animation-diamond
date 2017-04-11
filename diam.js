@@ -13,7 +13,7 @@ function aha(){
         setTimeout(function(){
         color.addEventListener('click',remove)
           color.disabled=false
-            color.style.color=color[b];
+            color.style.hover=colors[b];
         },4000)
        
        }
