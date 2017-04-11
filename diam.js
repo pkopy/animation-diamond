@@ -18,7 +18,7 @@ function aha(){
           color.disabled=false
           
         },4000)
-         color.style.backgroundColor=(c0','c1','c2);
+         color.style.backgroundColor=colors[b];
        }
 
 function remove(){
