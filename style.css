@@ -37,6 +37,7 @@ input  {
  	border-radius: 8px;
 	position: relative;
 	left: 200px;	
+	top:  200px;
 }
 
 input:hover {
