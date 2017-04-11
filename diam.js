@@ -5,9 +5,7 @@ color.addEventListener('click',aha)
 
 function aha(){
     var b=Math.floor((Math.random()*colors.length)+1);
-     var c0=Math.floor((Math.random()*255));
-     var c1=Math.floor((Math.random()*255));
-     var c2=Math.floor((Math.random()*255));
+    
     //console.log(b)
         square1(colors[b],0)
         color.value='CLEAR'
