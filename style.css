@@ -58,7 +58,11 @@ input  {
     color: black; 
     border: 2px solid #4CAF50;
 }
-
+#color {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
 input:hover {
     background-color: #4CAF50;
     color: white;
